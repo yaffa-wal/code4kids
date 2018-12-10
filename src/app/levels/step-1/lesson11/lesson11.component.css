@@ -1,0 +1,9 @@
+#car{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    left: 10px;
+    top: 100px;
+    transition: left 2s;
+}
